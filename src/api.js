@@ -1,1 +1,1 @@
-const BASE_URL = "http://dimgrey-shark-402070.hostingersite.com";
+const BASE_URL = "https://javohir.xyz";
